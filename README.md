@@ -3,7 +3,13 @@
 <p align="center">
  <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy  to talk with you !!</b> 😊</em>
 </p>
+ <div align="center">
+   <img src="https://api.daily.dev/devcards/v2/m74BjvLiJutbq6KcG2abG.png?type=wide&r=s1q" width="652" alt="Mahdi's Dev Card"/>
+</div>
 
+###
+
+<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ6b2I1bDRqNTN6N3Bwb3JseDJ3cnRydDc4empzZjc2ZHRrN25veCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
 ###
 
 
