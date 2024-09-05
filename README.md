@@ -12,6 +12,7 @@
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJ6b2I1bDRqNTN6N3Bwb3JseDJ3cnRydDc4empzZjc2ZHRrN25veCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
 
 
+###
 
 <div align="left">
  <h3 align="left">Languages and Tools:</h3>
@@ -48,7 +49,6 @@
 
 </div>
 
-###
 
 <div align="left">
  <a href="https://www.instagram.com/mahdi_laabidi_/"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
