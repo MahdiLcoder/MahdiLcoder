@@ -27,9 +27,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  alt="python logo"  />
   <img width="12" />
- <a href="https://cssbattle.dev/player/hXo05vBLsUPDDJDmMsxaqGao7QK2"> <img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" alt="css battle logo"></a>
+ <a href="https://cssbattle.dev/player/hXo05vBLsUPDDJDmMsxaqGao7QK2"> <img src="https://pbs.twimg.com/profile_images/1114446136302084096/BIu19jPP_400x400.png" height="30" alt="css battle logo"></a>
 </div>
 
 ###
