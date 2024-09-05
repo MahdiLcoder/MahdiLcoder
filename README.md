@@ -4,7 +4,7 @@
  <img  src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy  to talk with you !!</b> 😊</em>
 </p>
  <div align="center">
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 </div>
 
 ###
