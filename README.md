@@ -32,12 +32,3 @@ I'm a Full Stack Developer with hands-on experience in modern web technologies. 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiLcoder&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiLcoder&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150"/>
-</div>
