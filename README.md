@@ -2,7 +2,7 @@
   <h1>Mahdi Labidi</h1>
   <p><em>Full Stack Developer · Passionate about building clean, scalable web applications</em></p>
 
-  <a href="https://www.linkedin.com/in/labidi-mahdi-9245ba303/">
+  <a href="https://www.linkedin.com/in/mehdi-abidi-9245ba303/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn"/>
   </a>
 </div>
