@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Mahdi Labidi</h1>
+  <h1>Mehdi Abidi</h1>
   <p><em>Full Stack Developer · Passionate about building clean, scalable web applications</em></p>
 
   <a href="https://www.linkedin.com/in/mehdi-abidi-9245ba303/">
